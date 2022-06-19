@@ -25,7 +25,7 @@ from Zaid.Database.active import *
 from Zaid.Database.clientdb import *
 from Zaid.Client.Joiner import *
 from youtubesearchpython import VideosSearch
-IMAGE_THUMBNAIL = "https://telegra.ph/file/adcf833bd6314e0cf31fd.png"
+IMAGE_THUMBNAIL = "https://telegra.ph/file/a51ea7faf4cfc211f129b.jpg"
 
 
 def ytsearch(query: str):
